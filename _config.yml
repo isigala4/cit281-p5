@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Project 5
+description: In this project we gained practice on constructors and classes. We learnd the concept of a gaming loop and gained experience working with Array map() and forEach() methods
